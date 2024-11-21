@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="image_list">
+        <item>@drawable/apple</item>
+        <item>@drawable/avocado</item>
+        <item>@drawable/banana</item>
+        <item>@drawable/cherries</item>
+        <item>@drawable/coconut</item>
+        <item>@drawable/grapes</item>
+        <item>@drawable/lemon</item>
+        <item>@drawable/orange</item>
+        <item>@drawable/peach</item>
+        <item>@drawable/pineapple</item>
+        <item>@drawable/strawberry</item>
+        <item>@drawable/tomato</item>
+    </integer-array>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">kotlinch7</string>
+    <style name="Base.Theme.Lab7" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Lab7" parent="Base.Theme.Lab7"/>
+</resources>
